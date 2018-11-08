@@ -6,9 +6,9 @@ A Blockchain implementation of a Multi_Orgs Network. Implemented by changing con
 ### Run on your machine:
 git clone https://github.com/bhawanaSingh/hyperledger_fabric_multi_org_network.git </br>
 cd hyperledger_fabric_multi_org_network </br>
-curl -sSL https://goo.gl/6wtTN5 | bash -s 1.1.0 1.1.0 0.4.6
-cd first-network
-./byfn.sh -generate
-./byfn.sh - up 
+curl -sSL https://goo.gl/6wtTN5 | bash -s 1.1.0 1.1.0 0.4.6 </br>
+cd first-network </br>
+./byfn.sh -generate </br>
+./byfn.sh - up  </br>
 
 It will refelect the certificate, channel name, chanicode and query result.
