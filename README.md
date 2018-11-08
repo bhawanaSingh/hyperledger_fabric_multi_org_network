@@ -1,8 +1,7 @@
 # hyperledger_fabric_multi_org_network
 ## Customize the Hyperledger Fabric Configurations as per the Company requirements.
 
-A Blockchain implementation of a Multi_Orgs Network. Implemented by changing configuration files. More here (https://medium.com/p/a1ca8dd7fac9/edit)
-
+A Blockchain implementation of a Multi_Orgs Network. Implemented by changing configuration files. 
 ### Run on your machine:
 git clone https://github.com/bhawanaSingh/hyperledger_fabric_multi_org_network.git </br>
 cd hyperledger_fabric_multi_org_network </br>
