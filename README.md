@@ -7,7 +7,7 @@ git clone https://github.com/bhawanaSingh/hyperledger_fabric_multi_org_network.g
 cd hyperledger_fabric_multi_org_network </br>
 curl -sSL https://goo.gl/6wtTN5 | bash -s 1.1.0 1.1.0 0.4.6 </br>
 cd first-network </br>
-./byfn.sh -generate </br>
-./byfn.sh - up  </br>
+./byfn.sh generate </br>
+./byfn.sh up  </br>
 
 It will refelect the certificates, channel name, chanicode and query result.
