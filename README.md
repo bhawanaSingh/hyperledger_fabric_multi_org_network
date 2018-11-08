@@ -11,4 +11,4 @@ cd first-network </br>
 ./byfn.sh -generate </br>
 ./byfn.sh - up  </br>
 
-It will refelect the certificate, channel name, chanicode and query result.
+It will refelect the certificates, channel name, chanicode and query result.
