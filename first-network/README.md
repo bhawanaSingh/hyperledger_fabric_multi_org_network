@@ -1,5 +1,5 @@
 
-##Multi_Org Config##
+##Multi_Org Config
 
 Note that this multi_org configuration uses pre-generated certificates and key material, and also has predefined transactions to initialize a channel named "mychannel".
 
