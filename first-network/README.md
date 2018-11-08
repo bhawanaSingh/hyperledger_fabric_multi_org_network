@@ -1,7 +1,8 @@
-## Build Your First Network (BYFN)
 
-The directions for using this are documented in the Hyperledger Fabric
-["Build Your First Network"](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html) tutorial.
+##Multi_Org Config##
 
-*NOTE:* After navigating to the documentation, choose the documentation version that matches your version of Fabric
+Note that this multi_org configuration uses pre-generated certificates and key material, and also has predefined transactions to initialize a channel named "mychannel".
 
+To regenerate this material, simply run ./byfn.sh - generate.
+
+To start the network, run ./byfn.sh up. To stop it, run ./byfn.sh down To completely remove all incriminating evidence of the network on your system, run .byfn.sh teardown.
